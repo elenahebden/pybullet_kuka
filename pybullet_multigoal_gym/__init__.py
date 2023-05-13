@@ -82,7 +82,7 @@ def make_env(task='reach', gripper='parallel_jaw', num_block=5, render=False, bi
             print('Using default camera for observation and goal image')
     env_id += '-v0'
     print('Task id: %s' % env_id)
-    if env_id not in registry.env_specs:
+    if env_id not in registry:
         # register and make env instance
         if task in ['push', 'reach', 'slide', 'pick_and_place']:
             register(
