@@ -1,9 +1,7 @@
-#### Warning (2022.05.06): 
+#### Note: 
 ```diff
-@@ I will stop further development on this repo as Mujoco is now free. @@
-@@ However I will keep maintaining the repo and respond to issues. @@
-@@ Feel free to keep using the package and contact me whenever necessary. @@
-@@ Thanks for you interests! @@
+Code used as a template https://github.com/IanYangChina/pybullet_multigoal_gym
+With modifications to suit out project
 ```
 
 ### Pybullet-implementation of the multi-goal robotics environment originally from Open AI Gym.
