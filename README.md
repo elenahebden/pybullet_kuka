@@ -1,7 +1,7 @@
 #### Note: 
 ```diff
-Code used as a template https://github.com/IanYangChina/pybullet_multigoal_gym
-With modifications to suit out project
+@@Code used as a template https://github.com/IanYangChina/pybullet_multigoal_gym@@
+@@With modifications to suit out project@@
 ```
 
 ### Pybullet-implementation of the multi-goal robotics environment originally from Open AI Gym.
